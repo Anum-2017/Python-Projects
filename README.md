@@ -10,7 +10,7 @@ This repository showcases a collection of Python projects developed as part of t
 
 2. **Number Guessing Game (Computer)**  
    🔗 [Google Colab](#)  
-   *The computer tries to guess your secret number using smart algorithms.*
+   *A fun and interactive Python project that generates humorous stories based on user-inputted words.*
 
 3. **Number Guessing Game (User)**  
    🔗 [Google Colab](#)  
