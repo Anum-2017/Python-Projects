@@ -6,7 +6,7 @@ This repository showcases a collection of Python projects developed as part of t
 # 📜 Project List
 
 ## 1. **Mad Libs Game**  
-🔗 [Google Colab](#)  
+🔗 [Google Colab](https://colab.research.google.com/drive/1TGFn8fLOjbEJrizNPZdvV-jaMs_XFgAO#scrollTo=wdRLQnSO5hs_)  
 *A fun word-substitution game where user inputs become part of a story.*
 
 ## 2. **Number Guessing Game (Computer)**  
