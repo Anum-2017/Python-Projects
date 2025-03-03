@@ -9,3 +9,9 @@ This repository showcases a collection of Python projects developed as part of t
 
 A fun and interactive Python project that generates humorous stories based on user-inputted words.
 
+1. Mad Libs Game
+[🔗 Google Colab](https://colab.research.google.com/drive/1TGFn8fLOjbEJrizNPZdvV-jaMs_XFgAO#scrollTo=YQMn9AX55Z_C&line=1&uniqifier=1)
+A fun word-substitution game where user inputs become part of a story.
+
+
+
