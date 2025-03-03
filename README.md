@@ -6,8 +6,8 @@ This repository showcases a collection of Python projects developed as part of t
 
 1. **Mad Libs Game**  
    [🔗 Google Colab](#)
-   
-  *A fun and interactive Python project that generates humorous stories based on user-inputted words.*
+
+   *A fun and interactive Python project that generates humorous stories based on user-inputted words.*
 
 3. **Number Guessing Game (Computer)**  
    🔗 [Google Colab](#)  
