@@ -1,2 +1,3 @@
-# Python-Projects
-Compulsory Projects
+# GIAIC AI-101 Projects
+
+This repository showcases a collection of Python projects developed as part of the GIAIC AI-101 course. These projects cover a diverse range of programming concepts, including algorithmic problem-solving, game development, and interactive web applications using Streamlit. Designed to enhance both foundational and advanced coding skills, each project provides practical insights into real-world applications.
