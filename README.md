@@ -4,6 +4,6 @@ This repository showcases a collection of Python projects developed as part of t
 
 # 📜 Project List
 
-## 1. Mad Libs Game
+### 1. Mad Libs Game
 [🔗 Google Colab](https://colab.research.google.com/drive/1TGFn8fLOjbEJrizNPZdvV-jaMs_XFgAO#scrollTo=YQMn9AX55Z_C&line=1&uniqifier=1)
 
