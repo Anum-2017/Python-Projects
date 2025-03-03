@@ -17,20 +17,19 @@ This repository showcases a collection of Python projects developed as part of t
 4. **Project 4: Rock, paper, scissors Python Project**  
 🔗 [Google Colab](https://colab.research.google.com/drive/1Ow7_l9roYtg7eUOhqErzPyiZisStKQQQ#scrollTo=MW2tHwBnTJd1)
 
-5. **Project 1: Mad libs Python Project**  
-🔗 [Google Colab](https://colab.research.google.com/drive/1TGFn8fLOjbEJrizNPZdvV-jaMs_XFgAO#scrollTo=wdRLQnSO5hs_)  
+5. **Project 5: Hangman Python Project**  
+🔗 [Google Colab](https://colab.research.google.com/drive/1M1ECH87NkvFUr14RdCs12ExMletZLSL6#scrollTo=9xkwhrlp10Pl&line=2&uniqifier=1)]
 
-6. **Project 2: Guess the Number Game Python Project (computer)**  
+7. **Project 6: Guess the Number Game Python Project (computer)**  
 🔗 [Google Colab](https://colab.research.google.com/drive/1nwbLWn7UyQO-f7-CTUXy12uEgi3kcSuZ#scrollTo=LlGX7JdnSQxg&line=1&uniqifier=1)  
 
-7. **Project 3: Guess the Number Game Python Project (user)**  
+8. **Project 7: Guess the Number Game Python Project (user)**  
 🔗 [Google Colab](https://colab.research.google.com/drive/1QKgiBK9ddHY8prZ1TIWIbs0pNZROhlA0#scrollTo=xaQmbFXVarCP&line=1&uniqifier=1)  
 
-8. **Project 4: Rock, paper, scissors Python Project**  
+9. **Project 8: Rock, paper, scissors Python Project**  
 🔗 [Google Colab](https://colab.research.google.com/drive/1Ow7_l9roYtg7eUOhqErzPyiZisStKQQQ#scrollTo=MW2tHwBnTJd1)
 
-9. **Project 9: Build a Python Website in 15 Minutes With Streamlit**
-🔗 [Google Colab](#)
+
 
 
 
